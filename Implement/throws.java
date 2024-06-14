@@ -1,3 +1,5 @@
+// 절약 문제 
+// income과 outcome을 계산해 지출이 가지고 있는 돈 보다 크면 실패 아니면 성공을 출력하는 문제 
 import java.io.*;
 
 class Main {
