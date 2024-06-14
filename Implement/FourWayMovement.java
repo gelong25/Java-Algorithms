@@ -15,6 +15,7 @@ import java.util.Scanner;
 public class FourWayMovement {
     public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
+        sc.close();
             // 공간 크기 N 입력받기
             int n = sc.nextInt();
             sc.nextLine(); // 버퍼 비우기

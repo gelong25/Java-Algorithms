@@ -1,4 +1,3 @@
-package Implement;
 // 2차원 공간에서의 방향 벡터 
 public class DirectionVector {
     public static void main (String[] args){
