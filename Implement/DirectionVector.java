@@ -1,7 +1,7 @@
 // 2차원 공간에서의 방향 벡터 
 public class DirectionVector {
     public static void main (String[] args){
-        // 방향 벡터 초기화
+        // 방향 벡터 초기화 하기 
         // 동, 북, 서, 남
         int[] dx = {0, -1, 0, 1};
         int[] dy = {1, 0, -1, 0}; 
